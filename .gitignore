@@ -1,0 +1,11 @@
+# Ignore everything in DATA
+DATA/*
+
+# Allow directory traversal
+!DATA/ar6_regions/
+!DATA/ar6_regions/land/
+!DATA/ar6_regions/ocean/
+
+# Allow ts files in both
+!DATA/ar6_regions/land/*ts*
+!DATA/ar6_regions/ocean/*ts*
