@@ -9,3 +9,13 @@ DATA/*
 # Allow ts files in both
 !DATA/ar6_regions/land/*ts*
 !DATA/ar6_regions/ocean/*ts*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
