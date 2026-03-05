@@ -5,7 +5,7 @@ This repository contains tools for **trend detection and analysis** using Genera
 ---
 
 ## Project Structure
-trend-detector/
+```trend-detector/
 ├── trend_detector/ # Python package
 │ ├── init.py
 │ ├── ar6models.py # GEV model functions for AR6 regions
@@ -17,7 +17,7 @@ trend-detector/
 │ └── Global_Land_Ocean.ipynb # Trend analyis for all AR6 regions together 
 ├── DATA/ 
 ├── pyproject.toml
-└── README.md
+└── README.md```
 
 
 ---
