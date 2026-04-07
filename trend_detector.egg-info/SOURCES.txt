@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+trend_detector/__init__.py
+trend_detector/ar6models.py
+trend_detector/io.py
+trend_detector/plotting.py
+trend_detector/spatial.py
+trend_detector.egg-info/PKG-INFO
+trend_detector.egg-info/SOURCES.txt
+trend_detector.egg-info/dependency_links.txt
+trend_detector.egg-info/requires.txt
+trend_detector.egg-info/top_level.txt

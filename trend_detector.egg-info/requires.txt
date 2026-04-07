@@ -1,0 +1,13 @@
+pymc
+pymc-extras
+xarray
+numpy
+matplotlib
+arviz
+scikit-learn
+pytensor
+regionmask
+cartopy
+geopy
+seaborn
+jupyter

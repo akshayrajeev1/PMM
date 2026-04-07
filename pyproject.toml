@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "trend_detector"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "pymc",
+    "pymc-extras",
+    "xarray",
+    "numpy",
+    "matplotlib",
+    "arviz",
+    "scikit-learn",
+    "pytensor",
+    "regionmask",
+    "cartopy",
+    "geopy",
+    "seaborn",
+    "jupyter",
+]
+
+[tool.setuptools.packages.find]
+include = ["trend_detector*"]
